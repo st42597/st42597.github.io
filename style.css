@@ -1,0 +1,15 @@
+.header{
+  height: 5px;
+  width: 100vw;
+}
+.information{
+  list-style: circle;
+}
+h2{
+  border-left: 3px solid orange;
+  padding-left: 5px;
+}
+#field{
+  color: orange;
+  font-weight: bold;
+}
